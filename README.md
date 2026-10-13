@@ -1,4 +1,4 @@
-# Axion Ray Steering Wheel Repair Analysis
+# Axion Ray Automotive Repair Analysis
 
 Automotive repair data analysis project involving data validation, cleaning, dataset integration, NLP-based complaint tagging, and exploratory data analysis to identify recurring steering wheel failures and root causes.
 
