@@ -1,7 +1,3 @@
-# Axion Ray Automotive Repair Analysis
-
-Automotive repair data analysis project involving data validation, cleaning, dataset integration, NLP-based complaint tagging, and exploratory data analysis to identify recurring steering wheel failures and root causes.
-
 ## Project Overview
 
 This project analyzes steering wheel repair and order datasets to uncover recurring defects, cost drivers, and operational trends. The workflow includes:
@@ -19,7 +15,7 @@ This project analyzes steering wheel repair and order datasets to uncover recurr
 ## Repository Structure
 
 ```text
-axionray-steering-wheel-analysis/
+Data-analysis/
 │
 ├── data/
 │   ├── raw/
@@ -28,12 +24,11 @@ axionray-steering-wheel-analysis/
 │
 ├── notebooks/
 ├── reports/
-├── visuals/
 ├── src/
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+
 ```
 
 ---
@@ -91,7 +86,3 @@ notebooks/steering_wheel_analysis.ipynb
 ```
 
 ---
-
-## Author
-
-Abhishek Kumar
